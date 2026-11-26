@@ -1,0 +1,43 @@
+{
+  "version": "1",
+  "projectName": "Capstone_GitHub",
+  "records": [
+    {
+      "id": "1795603160142-6bc5a896",
+      "timestamp": "2026-11-25T10:39:20.142Z",
+      "date": "2026-11-25",
+      "ticketId": "",
+      "command": "copilot-chat",
+      "commandLabel": "Copilot Chat",
+      "chatLabel": "JIRA :[Board - KAN board - Jira](http s://namaalekhya9963.atlassian.net/jira/sof",
+      "durationMs": 76160941,
+      "success": true,
+      "workspaceName": "Capstone_GitHub",
+      "username": "alekhya_nama",
+      "inputTokens": 4663952,
+      "outputTokens": 25262,
+      "cachedTokens": 3837824,
+      "modelFamily": "mai-code-2-flash",
+      "tokensEstimated": false
+    },
+    {
+      "id": "1795615416831-52b24d08",
+      "timestamp": "2026-11-25T14:03:36.831Z",
+      "date": "2026-11-25",
+      "ticketId": "",
+      "command": "copilot-chat",
+      "commandLabel": "Copilot Chat",
+      "chatLabel": "Pasted text #1",
+      "durationMs": 2983477,
+      "success": true,
+      "workspaceName": "Capstone_GitHub",
+      "username": "alekhya_nama",
+      "inputTokens": 3024695,
+      "outputTokens": 14624,
+      "cachedTokens": 2530304,
+      "modelFamily": "mai-code-2-flash",
+      "tokensEstimated": false
+    }
+  ],
+  "lastUpdated": "2026-11-26T07:54:51.793Z"
+}

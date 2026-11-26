@@ -1,0 +1,16 @@
+{
+  "name": "copilot-sdlc-orchestrator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Technology-independent Agentic SDLC framework with an Automated Documentation Sync example.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "sync": "node src/index.js",
+    "test": "node --test",
+    "verify": "node scripts/verify.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
